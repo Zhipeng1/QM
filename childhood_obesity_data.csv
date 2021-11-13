@@ -1,0 +1,153 @@
+local_authority_area,Average_male_rate,Average_female_rate
+Barking and Dagenham,0.25,0.471
+Barnet,0.144,0.217
+Barnsley,0.153,0.211
+Bath and North East Somerset,0.168,0.333
+Bedford,0.18,0.226
+Bexley,0.206,0.299
+Birmingham,0.175,0.47
+Blackburn with Darwen,0.401,0.843
+Blackpool,0.264,0.559
+Bolton,0.184,0.242
+Bournemouth,0.46,0.572
+Bracknell Forest,0.15,0.218
+Bradford,0.334,0.657
+Brent,0.285,0.485
+Brighton and Hove,0.18,0.279
+Bristol,0.298,0.604
+Bromley,0.13,0.327
+Buckinghamshire,0.169,0.267
+Bury,0.231,0.307
+Calderdale,0.193,0.476
+Cambridgeshire,0.208,0.297
+Camden,0.133,0.185
+Central Bedfordshire,0.167,0.259
+Cheshire East,0.267,0.496
+Cheshire West and Chester,0.241,0.526
+City of London,0.073,0.217
+Cornwall,0.374,0.789
+Coventry,0.384,0.662
+Croydon,0.154,0.296
+Cumbria,0.17,0.35
+Darlington,0.141,0.159
+Derby,0.229,0.6
+Derbyshire,0.315,0.666
+Devon,0.14,0.251
+Doncaster,0.21,0.566
+Dorset,0.226,0.35
+Dudley,0.263,0.793
+Durham,0.149,0.214
+Ealing,0.305,0.491
+East Riding of Yorkshire,0.219,0.386
+East Sussex,0.229,0.387
+Enfield,0.194,0.311
+Essex,0.158,0.242
+Gateshead,0.149,0.341
+Gloucestershire,0.18,0.219
+Greenwich,0.155,0.33
+Hackney,0.291,0.617
+Halton,0.267,0.432
+Hammersmith and Fulham,0.278,0.352
+Hampshire,0.17,0.294
+Haringey,0.197,0.314
+Harrow,0.294,0.425
+Hartlepool,0.243,0.412
+Havering,0.231,0.362
+Herefordshire,0.143,0.319
+Hertfordshire,0.238,0.402
+Hillingdon,0.189,0.322
+Hounslow,0.203,0.257
+Isle of Wight,0.261,0.283
+Isles of Scilly,0.085,0.219
+Islington,0.225,0.362
+Kensington and Chelsea,0.174,0.232
+Kent,0.205,0.281
+Kingston upon Hull,0.125,0.328
+Kingston upon Thames,0.15,0.222
+Kirklees,0.228,0.552
+Knowsley,0.294,0.446
+Lambeth,0.212,0.42
+Lancashire,0.284,0.462
+Leeds,0.176,0.307
+Leicester,0.211,0.441
+Leicestershire,0.247,0.445
+Lewisham,0.134,0.287
+Lincolnshire,0.206,0.372
+Liverpool,0.278,0.4
+Luton,0.188,0.342
+Manchester,0.284,0.486
+Medway,0.28,0.49
+Merton,0.191,0.188
+Middlesbrough,0.158,0.187
+Milton Keynes,0.267,0.428
+Newcastle upon Tyne,0.139,0.229
+Newham,0.18,0.349
+Norfolk,0.213,0.393
+North East Lincolnshire,0.191,0.315
+North Lincolnshire,0.124,0.22
+North Somerset,0.229,0.53
+North Tyneside,0.252,0.413
+North Yorkshire,0.281,0.453
+Northamptonshire,0.323,0.578
+Northumberland,0.251,0.429
+Nottingham,0.475,0.92
+Nottinghamshire,0.465,0.84
+Oldham,0.301,0.377
+Oxfordshire,0.107,0.221
+Peterborough,0.145,0.335
+Plymouth,0.233,0.336
+Poole,0.265,0.431
+Portsmouth,0.211,0.386
+Reading,0.08,0.126
+Redbridge,0.178,0.296
+Redcar and Cleveland,0.132,0.195
+Richmond upon Thames,0.141,0.16
+Rochdale,0.274,0.4
+Rotherham,0.246,0.488
+Rutland,0.124,0.339
+Salford,0.497,0.824
+Sandwell,0.191,0.419
+Sefton,0.223,0.335
+Sheffield,0.156,0.331
+Shropshire,0.275,0.49
+Slough,0.46,0.789
+Solihull,0.142,0.474
+Somerset,0.193,0.454
+South Gloucestershire,0.251,0.637
+South Tyneside,0.118,0.223
+Southampton,0.425,0.696
+Southend on Sea,0.105,0.261
+Southwark,0.242,0.454
+St Helens,0.266,0.371
+Staffordshire,0.342,0.642
+Stockport,0.431,0.622
+Stockton on Tees,0.207,0.347
+Stoke on Trent,0.287,0.665
+Suffolk,0.248,0.435
+Sunderland,0.179,0.327
+Surrey,0.106,0.206
+Sutton,0.152,0.222
+Swindon,0.208,0.426
+Tameside,0.254,0.313
+Telford and Wrekin,0.315,0.641
+Thurrock,0.149,0.188
+Torbay,0.258,0.652
+Tower Hamlets,0.189,0.359
+Trafford,0.284,0.435
+Wakefield,0.322,0.776
+Walsall,0.305,0.629
+Waltham Forest,0.173,0.278
+Wandsworth,0.175,0.224
+Warrington,0.231,0.25
+Warwickshire,0.345,0.623
+West Berkshire,0.077,0.14
+West Sussex,0.215,0.38
+Westminster,0.2,0.272
+Wigan,0.567,0.779
+Wiltshire,0.205,0.389
+Windsor and Maidenhead,0.269,0.395
+Wirral,0.657,1.034
+Wokingham,0.076,0.099
+Wolverhampton,0.376,0.85
+Worcestershire,0.369,0.624
+York,0.496,0.748
